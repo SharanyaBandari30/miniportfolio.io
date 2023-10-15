@@ -1,0 +1,207 @@
+body{
+    margin: 0;
+   text-align: center;
+  
+   
+}
+.profile{
+    box-sizing:border-box;
+    margin-bottom: auto;
+    box-sizing: 21px;
+    border-radius: 20cm;
+    
+
+}
+.mim{
+    padding:0 4px 3px 4px;
+    border-style: double;
+}
+
+.top{
+    font-family: cursive;
+}
+
+
+h1{
+  
+    font-family:  cursive;
+    color: aqua;
+ }
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: inherit;
+}
+
+.hdline{
+    font-family: sans-serif;
+    padding: 4px;
+    font-weight: 4px;
+    color:indigo;
+}
+
+p{
+    font-family: sans-serif;
+   color: aliceblue;
+    font-size: 20px;
+}
+.p1{
+    color: black;
+    font-weight:20px;
+    
+    font-family: sans-serif;
+}
+.p2{
+    font-weight: bolder;
+}
+
+.abov{
+    background-color: #E5CFF7;
+    padding: auto;
+    font-family: 'Dancing Script', cursive;
+}
+.skill-1{
+    background: #f3afca;
+    border-radius: 6cm;
+    font-weight: 22px;
+    padding: 5px;
+    color: rgb(11, 63, 108);
+  
+   
+}
+.skill-2 {
+    background:rgb(246, 223, 223);
+    color: black;
+    font-weight: 22px;
+    box-sizing: border-box;
+    border-radius: 6cm;
+   
+   
+    
+}
+.mim,.myskills{
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700px;
+    color:indigo;
+    padding-block: 2px;
+    text-shadow: #132043;
+
+}
+.abov,.abc{
+    font-size: 29px;
+    font-family:'cursive';
+    color: #132043;
+    flex-direction: row;
+}
+.skill-3{
+    background: #bcfbce;
+    border-radius: 6cm;
+    font-weight: 22px;
+    padding: 5px;
+    color: aliceblue;
+    
+    
+
+   
+}
+.skill-4{
+    background:rgb(255, 177, 168);
+    color: midnightblue;
+    font-weight: 22px;
+    box-sizing: border-box;
+    border-radius: 6cm;
+    padding:5px;
+    
+   
+}
+.skill-5{
+    background:rgb(192, 238, 238);
+    border-radius: 6cm;
+    font-weight: 22px;
+    padding: 5px;
+    color: rgb(6, 57, 103);
+    
+ 
+
+}
+.skill-6,.p{
+    background:#c2baf4;
+    color: black;
+    font-weight: 22px;
+    box-sizing: border-box;
+    border-radius: 6cm;
+    padding:5px;
+    ;
+    
+}
+
+
+
+
+.skill{
+    color: indigo;
+    padding: 3px;
+    box-shadow: 6ch;
+    box-sizing: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
+
+h3{
+   
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: azure;
+}
+.top-container{
+    background-color: #000;
+}
+
+.middle-container{
+    color: #FACBEA;
+    border-radius: 10cap;
+    border-radius: 4cm;
+    box-sizing: border-box;
+}
+
+.bottom-container{
+    background-color:rgb(183, 228, 228);
+    box-sizing:content-box;
+    
+    padding: 3cm;
+    color: indigo;
+    font-family:monospace;
+    border-radius: 2px;
+   
+}
+.last{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 30px;
+    font-size-adjust: inherit;
+    color: #132043;
+    font-family:sans-serif;
+}
+.contact-me,.p5{
+    font-size: 16px;
+    box-sizing: inherit;
+    padding-bottom: 5px;
+    padding-inline: 2px;
+    color: #132043;
+    box-shadow: darkblue;
+    border-radius: 30cqmax;
+    -moz-box-align: center;
+    font-display:calc(20,40);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p4{
+    font-size: 21px;
+    color: #132043;
+}
